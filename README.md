@@ -49,7 +49,7 @@ Perfect for:
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/aishwaryakokate1406/Agentic_AI_HR_ASSISTANT.git
+git clone https://github.com/AishwaryaKokate1406/Agentic_AI_HR_ASSISTANT.git
 cd Agentic_AI_HR_ASSISTANT
 ```
 
