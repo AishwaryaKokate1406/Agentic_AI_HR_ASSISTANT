@@ -71,5 +71,16 @@ GROQ_API_KEY="your_groq_api_key_here"
 streamlit run app.py
 ```
 
+## Screenshots
 
 
+![Screenshot1](screenshots/Screenshot1.png)
+
+
+![Screenshot2](screenshots/Screenshot2.png)
+
+
+![Screenshot3](screenshots/Screenshot3.png)
+
+
+![Screenshot4](screenshots/Screenshot4.png)
